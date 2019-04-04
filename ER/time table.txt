@@ -1,0 +1,37 @@
+1.Timetable:
+day
+timeslot
+subject: subject id subject name
+teacher id
+classroom id
+location
+Lecture Type
+
+2.Faculty
+Faculty Id
+Username
+Password
+Subject
+Name
+Contact
+email
+Departmrnt(Cs,ECE etc.)
+Location(fACULTY sIT)
+Designation(Prof, Assistant,LA,Coordinator etc.)
+
+3.ClassRoom
+Room No
+Location
+Class Name
+
+4.Subject
+Subject Id
+Credits
+Subject Name
+Department
+
+5.Admin
+userID
+Password
+
+
